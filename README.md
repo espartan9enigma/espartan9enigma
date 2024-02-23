@@ -12,6 +12,5 @@ espartan9enigma/espartan9enigma is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-![riki](https://github.com/espartan9enigma/espartan9enigma/assets/150054498/1c43b544-922b-4556-ab71-0712ed9160c9)  
 
 
